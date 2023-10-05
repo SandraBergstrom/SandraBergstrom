@@ -2,9 +2,9 @@
 
 👋 Hi, I'm Sandra Bergström!
 
-🌍 Stockholm, Sweden
-🌐 [GitHub](https://github.com/SandraBergstrom)
-🔗 [LinkedIn](https://linkedin.com/in/sandrabergstrom)
+🌍 Stockholm, Sweden <br>
+🌐 [GitHub](https://github.com/SandraBergstrom) <br>
+🔗 [LinkedIn](https://linkedin.com/in/sandrabergstrom) <br>
 
 ## Introduction
 
