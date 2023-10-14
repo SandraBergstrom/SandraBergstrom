@@ -41,8 +41,8 @@ Agile
 
 - **Diploma | Full Stack Development**
   - Code Institute, Online Bootcamp
-  - Jan 2023 – May 2023
-  - 
+  - Jan 2023 – July 2023
+    
 ## Experience
 
 - **Web Developer**
