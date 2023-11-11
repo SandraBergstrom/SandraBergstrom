@@ -45,6 +45,6 @@ Agile
     
 ## Experience
 
-- **Web Developer**
+- **Frontend Developer**
   - Mornington Hotel Group | Stockholm, Sweden | Aug 2023 – Nov 2023
-  - Navigated a project environment built on C# and .NET, focusing on the front-end development aspects, and cultivated valuable insights into understanding and coordinating with different technology stacks, enhancing my adaptability and problem-solving capabilities.
+  - Independently revamped Mornington Group's website sections, including Health Club, Membership, and Spa Boutique, focusing on frontend enhancements in collaboration with UI designers. Navigated a project environment built on C# and .NET and cultivated valuable insights into understanding and coordinating with different technology stacks, enhancing my adaptability and problem-solving capabilities.
