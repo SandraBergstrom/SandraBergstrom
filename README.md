@@ -26,10 +26,13 @@ I'm committed to continuous improvement and exploring new horizons. Currently, I
 HTML, CSS, JavaScript, Python
 
 ### Frameworks & Libraries
-Flask, Bootstrap, Django, Django REST, jQuery, React, Node.js
+Flask, Bootstrap, Django, Django REST, jQuery, React, Node.js, SASS
 
 ### Databases
 PostgreSQL
+
+### Developer Tools:
+Perforce, GitHub, Git, Github Co-Pilot, Visual Studio Code, Npm, Pip
 
 ### Version Control
 GitHub, Git, Perforce
