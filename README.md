@@ -12,8 +12,12 @@ Blending 15 years of design mastery with a new diploma in Full Stack Development
 
 ## Achievements & Awards
 
+- 🏆 **Festive Timer (HTML, CSS, JavaScript)**:
+  - 1st place | Code Institute Secret Santa Hackathon | Dec 2023
+  - Achived victory at Code Institutes Secret Santa Hackathon in December 2023, co-leading a team effort to create the "Festive Timer" project. We developed an innovative countdown timer application using JavaScript, HTML and CSS, showcasing effective teamwork and problem-solving skills during the competition. 
+
 - 🏆 **Retro Mashup Mayhem (HTML, CSS, Kaboom.js)**:
-  - Winner | Code Institute Retro Quest Hackathon | August 2023
+  - 1st place | Code Institute Retro Quest Hackathon | Aug 2023
   - Victorious at Code Institute’s Retro Quest Hackathon, August 2023, collaborating to develop a frontend game in Kaboom.js within a swift 5-day timeframe.
 
 ## Upcoming Activities & Professional Development
@@ -26,7 +30,7 @@ I'm committed to continuous improvement and exploring new horizons. Currently, I
 HTML, CSS, JavaScript, Python
 
 ### Frameworks & Libraries
-Flask, Bootstrap, Django, Django REST, jQuery, React, Node.js, SASS
+Flask, Bootstrap, Django, Django REST, jQuery, React, SASS
 
 ### Databases
 PostgreSQL
