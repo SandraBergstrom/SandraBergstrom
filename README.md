@@ -14,7 +14,7 @@ Blending 15 years of design mastery with a new diploma in Full Stack Development
 
 - 🏆 **Broker Buddy (HTML, CSS, JavaScript, Python)**:
   - 1st place | Code Institute's Budget Busters: New Year, New Numbers! Hackathon | Jan 2024
-  - Led frontend development for "Broker Buddy" at the [Hackathon Name], [Month] 2024. Our app, crafted during a finance-themed hackathon, facilitated simulated investments, securing our win.
+  - Led frontend development for "Broker Buddy" at the Budget Busters: New Year, New Numbers! hacjmkathon, January 2024. Our app, crafted during a finance-themed hackathon, facilitated simulated investments, securing our win.
 
 - 🏆 **Festive Timer (HTML, CSS, JavaScript)**:
   - 1st place | Code Institute Secret Santa Hackathon | Dec 2023
