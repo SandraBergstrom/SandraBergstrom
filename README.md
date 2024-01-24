@@ -12,6 +12,10 @@ Blending 15 years of design mastery with a new diploma in Full Stack Development
 
 ## Achievements & Awards
 
+- 🏆 **Broker Buddy (HTML, CSS, JavaScript, Python)**:
+  - 1st place | Code Institute's Budget Busters: New Year, New Numbers! Hackathon | Jan 2024
+  - Led frontend development for "Broker Buddy" at the [Hackathon Name], [Month] 2024. Our app, crafted during a finance-themed hackathon, facilitated simulated investments, securing our win.
+
 - 🏆 **Festive Timer (HTML, CSS, JavaScript)**:
   - 1st place | Code Institute Secret Santa Hackathon | Dec 2023
   - Achived victory at Code Institutes Secret Santa Hackathon in December 2023, co-leading a team effort to create the "Festive Timer" project. We developed an innovative countdown timer application using JavaScript, HTML and CSS, showcasing effective teamwork and problem-solving skills during the competition. 
