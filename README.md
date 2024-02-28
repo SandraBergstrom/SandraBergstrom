@@ -12,15 +12,15 @@ Blending 15 years of design mastery with a new diploma in Full Stack Development
 
 ## Achievements & Awards
 
-- 🏆 **Broker Buddy (HTML, CSS, JavaScript, Python)**:
+- 🏆 [**Broker Buddy (HTML, CSS, JavaScript, Python)**:](https://fin-flare-8f9d374a56d6.herokuapp.com/)
   - 1st place | Code Institute's Budget Busters: New Year, New Numbers! Hackathon | Jan 2024
   - I primarily focused on frontend development, which included creating wireframes in Figma and coding in HTML, CSS, JavaScript, and Bootstrap. I also integrated Django template tags and expressions for dynamic functionality when necessary.
 
-- 🏆 **Festive Timer (HTML, CSS, JavaScript)**:
+- 🏆 [**Festive Timer (HTML, CSS, JavaScript)**:](https://festive-timer.netlify.app/)
   - 1st place | Code Institute Secret Santa Hackathon | Dec 2023
   - Achived victory at Code Institutes Secret Santa Hackathon in December 2023, co-leading a team effort to create the "Festive Timer" project. We developed an innovative countdown timer application using JavaScript, HTML and CSS, showcasing effective teamwork and problem-solving skills during the competition. 
 
-- 🏆 **Retro Mashup Mayhem (HTML, CSS, Kaboom.js)**:
+- 🏆 [**Retro Mashup Mayhem (HTML, CSS, Kaboom.js)**:](https://retro-mashup-mayhem.netlify.app/)
   - 1st place | Code Institute Retro Quest Hackathon | Aug 2023
   - Victorious at Code Institute’s Retro Quest Hackathon, August 2023, collaborating to develop a frontend game in Kaboom.js within a swift 5-day timeframe.
 
