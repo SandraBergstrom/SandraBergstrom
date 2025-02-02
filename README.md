@@ -30,9 +30,15 @@ Blending 15 years of design mastery with a new diploma in Full Stack Development
   - 1st place | Code Institute Retro Quest Hackathon | Aug 2023
   - Victorious at Code Institute’s Retro Quest Hackathon, August 2023, collaborating to develop a frontend game in Kaboom.js within a swift 5-day timeframe.
 
+## Education
+
+- **Diploma | Full Stack Development**
+  - Code Institute, Online Bootcamp
+  - Jan 2023 – July 2023
+
 ## Upcoming Activities & Professional Development
 
-I'm committed to continuous improvement and exploring new horizons. Currently, I'm enhancing my React skills through Brian Holt's course on Frontend Masters and planning to delve deeper into TypeScript, AI implementation, three.js for 3D experiences, and mastering Figma for design. Also, I'm dedicated to refining my Python and Django expertise.
+I’m dedicated to continuous growth and expanding my skill set. Currently, I’m enhancing my React knowledge while also exploring UI/UX design through Google’s professional certification course. I’m also planning to dive deeper into TypeScript, AI implementation, and three.js for 3D experiences, as well as mastering Figma for design. Additionally, I’m focused on refining my expertise in Python and Django.
 
 ## Key Skills
 
@@ -46,16 +52,12 @@ Flask, Bootstrap, Django, Django REST, jQuery, React, SASS
 PostgreSQL
 
 ### Developer Tools:
-Perforce, GitHub, Git, Github Co-Pilot, Visual Studio Code, Npm, Pip
+GitHub, Git, Github Co-Pilot, Visual Studio Code, Npm, Pip, Cursor
 
 ### Version Control
 GitHub, Git, Perforce
 
 ### Methodology
-Agile
+Agile, Accessibility, Mobile-First Design, Responsive Web Design
 
-## Education
 
-- **Diploma | Full Stack Development**
-  - Code Institute, Online Bootcamp
-  - Jan 2023 – July 2023
