@@ -1,63 +1,73 @@
-# About Me
+# Sandra Bergström
 
-👋 Hi, I'm Sandra Bergström!
+📍 Stockholm, Sweden  
+🔗 LinkedIn: https://www.linkedin.com/in/sandrabergstrom  
 
-🌍 Stockholm, Sweden <br>
-🌐 [GitHub](https://github.com/SandraBergstrom) <br>
-🔗 [LinkedIn](https://linkedin.com/in/sandrabergstrom) <br>
+---
 
-## Introduction
+## About
 
-Blending 15 years of design mastery with a new diploma in Full Stack Development, I bring together a deep understanding of design with fresh tech skills. My journey from leading as a Creative Director at Sightline, boosting sales through strategic design, to diving into coding, has shaped a special skill set where beauty meets functionality in web development. Eager to keep learning, I’m exploring the tech world with a careful designer’s eye, aiming for digital experiences that are both beautiful and smooth.
+I work at the intersection of **design, product and technology**, with a background spanning over 15 years in design leadership and product-oriented work, combined with hands-on experience in modern web development.
 
-## Experience
+My professional focus is on creating **clear, usable and well-considered digital experiences**, where design decisions are grounded in user needs, business context and technical feasibility. I am comfortable moving between strategic discussions and practical execution, and I collaborate closely with developers to ensure that ideas translate into sustainable solutions.
 
-- **Frontend Developer**
-  - Mornington Hotel Group | Stockholm, Sweden | Aug 2023 – Nov 2023
-  - Independently revamped Mornington Group's website sections, including Health Club, Membership, and Spa Boutique, focusing on frontend enhancements in collaboration with UI designers. Navigated a project environment built on C# and .NET and cultivated valuable insights into understanding and coordinating with different technology stacks, enhancing my adaptability and problem-solving capabilities.
+I do not position myself as a specialist developer, but as a **product- and design-driven digital professional with strong technical understanding**, capable of contributing meaningfully across disciplines.
 
-## Achievements & Awards
+---
 
-- 🏆 [**Broker Buddy (HTML, CSS, JavaScript, Python)**:](https://fin-flare-8f9d374a56d6.herokuapp.com/)
-  - 1st place | Code Institute's Budget Busters: New Year, New Numbers! Hackathon | Jan 2024
-  - I primarily focused on frontend development, which included creating wireframes in Figma and coding in HTML, CSS, JavaScript, and Bootstrap. I also integrated Django template tags and expressions for dynamic functionality when necessary.
+## Selected Experience
 
-- 🏆 [**Festive Timer (HTML, CSS, JavaScript)**:](https://festive-timer.netlify.app/)
-  - 1st place | Code Institute Secret Santa Hackathon | Dec 2023
-  - Achived victory at Code Institutes Secret Santa Hackathon in December 2023, co-leading a team effort to create the "Festive Timer" project. We developed an innovative countdown timer application using JavaScript, HTML and CSS, showcasing effective teamwork and problem-solving skills during the competition. 
+### Frontend & Product-Oriented Development  
+**Mornington Hotel Group** · Stockholm  
+*Aug 2023 – Nov 2023*
 
-- 🏆 [**Retro Mashup Mayhem (HTML, CSS, Kaboom.js)**:](https://retro-mashup-mayhem.netlify.app/)
-  - 1st place | Code Institute Retro Quest Hackathon | Aug 2023
-  - Victorious at Code Institute’s Retro Quest Hackathon, August 2023, collaborating to develop a frontend game in Kaboom.js within a swift 5-day timeframe.
+Worked with frontend development and UX improvements across selected sections of Mornington Group’s digital platforms, including Health Club, Membership and Spa services.
 
-## Education
+- Implemented frontend improvements in close collaboration with designers  
+- Worked within a C# / .NET-based environment, strengthening cross-stack understanding  
+- Focused on usability, structure and maintainability rather than feature volume  
 
-- **Diploma | Full Stack Development**
-  - Code Institute, Online Bootcamp
-  - Jan 2023 – July 2023
+---
 
-## Upcoming Activities & Professional Development
+## Projects & Recognition
 
-I’m dedicated to continuous growth and expanding my skill set. Currently, I’m enhancing my React knowledge while also exploring UI/UX design through Google’s professional certification course. I’m also planning to dive deeper into TypeScript, AI implementation, and three.js for 3D experiences, as well as mastering Figma for design. Additionally, I’m focused on refining my expertise in Python and Django.
+While studying full stack development, I participated in several team-based projects and hackathons focused on collaboration, rapid problem-solving and frontend quality.
 
-## Key Skills
+- **Broker Buddy** – 1st place, Code Institute Hackathon (2024)  
+  Frontend-focused contribution including structure, UI logic and implementation.
 
-### Languages
-HTML, CSS, JavaScript, Python
+- **Festive Timer** – 1st place, Code Institute Hackathon (2023)  
+  Co-led frontend development of a JavaScript-based application.
 
-### Frameworks & Libraries
-Flask, Bootstrap, Django, Django REST, jQuery, React, SASS
+- **Retro Mashup Mayhem** – 1st place, Code Institute Hackathon (2023)  
+  Frontend game development using Kaboom.js in a short delivery cycle.
 
-### Databases
-PostgreSQL
+These projects reflect **team collaboration and execution under constraints**, rather than my long-term professional identity.
 
-### Developer Tools:
-GitHub, Git, Github Co-Pilot, Visual Studio Code, Npm, Pip, Cursor
+---
 
-### Version Control
-GitHub, Git, Perforce
+## Skills & Tools
 
-### Methodology
-Agile, Accessibility, Mobile-First Design, Responsive Web Design
+**Core areas**  
+- UX-aware frontend development  
+- Design–tech collaboration  
+- Accessibility & responsive design  
+- Product-oriented thinking  
 
+**Languages**  
+HTML · CSS · JavaScript · Python  
 
+**Frameworks & Libraries**  
+React · Django · Django REST · Bootstrap · SASS · jQuery  
+
+**Tools & Platforms**  
+Git · GitHub · Perforce · GitHub Copilot · VS Code · Cursor  · Codex
+
+**Ways of working**
+Agile collaboration · Iterative improvement · User-centred design · Accessibility and inclusive design as a quality baseline
+
+---
+
+## Current Focus
+
+I continue to deepen my understanding of **UX, accessibility and modern frontend practices**, while maintaining a strong emphasis on design quality, structure and collaboration with engineering teams.
