@@ -1,6 +1,6 @@
 # Sandra Bergström
 
-📍 Stockholm, Sweden  
+📍 Stockholm/Båstad, Sweden  
 🔗 LinkedIn: https://www.linkedin.com/in/sandrabergstrom  
 
 ---
