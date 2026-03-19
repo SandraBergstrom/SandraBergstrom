@@ -33,13 +33,13 @@ Worked with frontend development and UX improvements across selected sections of
 
 While studying full stack development, I participated in several team-based projects and hackathons focused on collaboration, rapid problem-solving and frontend quality.
 
-- **Broker Buddy** – 1st place, Code Institute Hackathon (2024)  
+- **[Broker Buddy](https://github.com/SandraBergstrom/finFlare)** – 1st place, Code Institute Hackathon (2024)  
   Frontend-focused contribution including structure, UI logic and implementation.
 
-- **Festive Timer** – 1st place, Code Institute Hackathon (2023)  
+- **[Festive Timer](https://github.com/SandraBergstrom/Jingle-Seconds-Festive-Timer)** – 1st place, Code Institute Hackathon (2023)  
   Co-led frontend development of a JavaScript-based application.
 
-- **Retro Mashup Mayhem** – 1st place, Code Institute Hackathon (2023)  
+- **[Retro Mashup Mayhem](https://github.com/SandraBergstrom/Retro-Mashup-Mayhem)** – 1st place, Code Institute Hackathon (2023)  
   Frontend game development using Kaboom.js in a short delivery cycle.
 
 These projects reflect **team collaboration and execution under constraints**, rather than my long-term professional identity.
@@ -58,7 +58,7 @@ These projects reflect **team collaboration and execution under constraints**, r
 HTML · CSS · JavaScript · Python  
 
 **Frameworks & Libraries**  
-React · Django · Django REST · Bootstrap · SASS · jQuery  
+React · Django · Django REST · Bootstrap · SASS 
 
 **Tools & Platforms**  
 Git · GitHub · Perforce · GitHub Copilot · VS Code · Cursor  · Codex
